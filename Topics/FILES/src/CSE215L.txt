@@ -1,0 +1,24 @@
+		[ CSE215L Score Board ]
+
+> Attendance 		: 5.00% out of 5.0%
+> Assignment 		: 4.43% out of 5.0%
+> QUIZ 		: 21.61% out of 25.0%
+> MID 		: 18.00% out of 20.0%
+> Final 		: 22.50% out of 25.0%
+> Presentation 		: 15.00% out of 20.0%
+
+> Total Points : 86.54% out of 100.0%
+
+CGPA: 3.0  B Good
+		[ CSE215L Score Board ]
+
+> Attendance 		: 5.00% out of 5.0%
+> Assignment 		: 8.64% out of 10.0%
+> QUIZ 		: 17.71% out of 20.0%
+> MID 		: 18.00% out of 20.0%
+> Final 		: 24.00% out of 25.0%
+> Presentation 		: 15.00% out of 20.0%
+
+> Total Points : 88.36% out of 100.0%
+
+CGPA: 3.3  B+
